@@ -120,4 +120,5 @@ puts loves_to_play && age <= 1
 #This would evaluate to true
 
 # What did your final line of code evaluate to? Why do you think that is? Explain.
-# ANSWER:
+# ANSWER: Thhe final lone evaluated to true. It evaluated to true because the condition that the dog loves to play is true AND the condition that the age is equal to or less than one is true.
+# I guess it could be different based on what you consider a puppy
